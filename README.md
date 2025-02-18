@@ -21,7 +21,7 @@ This project is a web application built with .NET and Angular, allowing users to
 - Navigate to the API directory: `cd API`
 - Run the application: `dotnet run`
 ```sh
-dotnet restore
+cd API
 dotnet run
 ```
 
