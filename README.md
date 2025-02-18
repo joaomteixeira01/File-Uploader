@@ -1,6 +1,5 @@
 # FileUploader
-This project is a web application built with .NET and Angular that allows users to upload files securely to a server. The application features include file selection, multiple file uploads, and secure redirection of uploaded files to a specified IP address using SSL certificates.
-File upload system integrated with Karspersky antivirus for real-time file analysis
+This project is a web application built with .NET and Angular, allowing users to upload files securely for real-time analysis. Uploaded files are sent to Kaspersky antivirus for scanning before being securely transmitted to a designated IP address using SSL encryption. The system supports multiple file uploads and ensures end-to-end security throughout the process.
 
 ## Key Features:
 - **File Upload:** Users can select and upload multiple files simultaneously.
