@@ -20,9 +20,24 @@ This project is a web application built with .NET and Angular, allowing users to
 1. **Build and Run the Backend:**
    - Navigate to the API directory: `cd API`
    - Run the application: `dotnet run`
+   ```sh
+   dotnet restore
+   dotnet run
+   ```
 2. **Build and Run the Frontend:**
    - Navigate to the client directory: `cd client`
    - Install dependencies: `npm install`
    - Run the application: `ng serve`
+   ```sh
+   cd client
+   npm install
+   ng serve
+   ```
+
+3. **Open the Application
+   Open your browser and navigate to:
+   ```
+   http://localhost:4200
+   ```
 
 Feel free to contribute to the project by submitting issues or pull requests.
